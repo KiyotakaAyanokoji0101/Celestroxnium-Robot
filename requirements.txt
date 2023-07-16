@@ -1,0 +1,7 @@
+pyrogram
+tgcrypto
+python-dotenv
+asyncio
+# aiohttp
+uvloop
+# pytz
